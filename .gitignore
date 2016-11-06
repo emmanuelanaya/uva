@@ -2,4 +2,4 @@ in*
 *.out
 00000.cpp
 *~
-*.exe
+*.exe*
